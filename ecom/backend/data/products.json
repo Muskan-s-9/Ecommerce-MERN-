@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "_id": 1,
+    "name": "Wireless Headphones",
+    "description": "Premium noise-cancelling headphones",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/300",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "_id": 2,
+    "name": "Smart Watch",
+    "description": "Fitness tracking smartwatch",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/300",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "_id": 3,
+    "name": "Laptop Stand",
+    "description": "Ergonomic aluminum laptop stand",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "_id": 4,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical gaming keyboard",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/300",
+    "stock": 75
+  },
+  {
+    "id": 5,
+    "_id": 5,
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300",
+    "stock": 200
+  }
+]
