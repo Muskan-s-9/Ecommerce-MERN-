@@ -3,13 +3,13 @@ A full-stack shopping cart application built for E Commerce screening.
 
 ## Features
 
-- ✅ Add/Remove items from cart
-- ✅ Update item quantities
-- ✅ Calculate totals
-- ✅ Mock checkout (no real payments)
-- ✅ Responsive UI
-- ✅ RESTful API
-- ✅ Database integration (SQLite/MongoDB)
+-  Add/Remove items from cart
+-  Update item quantities
+-  Calculate totals
+-  Mock checkout (no real payments)
+-  Responsive UI
+-  RESTful API
+-  Database integration (SQLite/MongoDB)
 
 ## Tech Stack
 
@@ -121,4 +121,5 @@ ecom/
 - No real payment processing
 - Cart data persists in database
 - Checkout clears the cart
+
 
